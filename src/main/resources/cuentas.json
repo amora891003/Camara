@@ -1,0 +1,41 @@
+{
+	"cuentas" : 
+		[
+			{
+				"caso": "1",
+				"cta": "9200000135",
+				"tipo": "Personal",
+				"titular1": "Francisco Aguirre Landa",
+				"titular2": "N/A",
+				"reglaBastanteo": "N/A",
+				"idRegla": "N/A"
+			},
+			{
+				"caso": "2",
+				"cta": "9200000401",
+				"tipo": "Mancomunada",
+				"titular1": "Alejandro Cantú López",
+				"titular2": "Maria del Refugio Sánchez Álvarez",
+				"reglaBastanteo": "Alejandro Cantú López puede firmar cheques hasta $ 50,000 pesos, Maria del Refugio Sánchez Álvarez puede firmar cheques hasta $ 10,000, cheques arriba de $ 50,000 pesos deben tener las 2 firmas de los titulares",
+				"idRegla": "51"
+			},
+			{
+				"caso": "3",
+				"cta": "9200000402",
+				"tipo": "Mancomunada",
+				"titular1": "Alejandro Cantú López",
+				"titular2": "Juan Manuel Aguirre",
+				"reglaBastanteo": "Alejandro Cantú López puede firmar cheques hasta $ 100,000 pesos, Maria del Refugio Sánchez Álvarez puede firmar cheques hasta $ 75,000, cheques arriba de $ 100,000 pesos deben tener las 2 firmas de los titulares",
+				"idRegla": "52"
+			},
+			{
+				"caso": "4",
+				"cta": "9200000405",
+				"tipo": "Mancomunada",
+				"titular1": "Fernando Reynoso",
+				"titular2": "Iván Sánchez",
+				"reglaBastanteo": "Titulares  giran cheques con límite de  $ 200,000 pesos, y para cheques con monto superior deben tener las 2 firmas de los titulares",
+				"idRegla": "53"
+			}
+		]
+}
